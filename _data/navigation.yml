@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Projects"
-    url: /projects/    
+  - title: "Batches"
+    url: /batches/
     
-  - title: "Canvas"
-    url: /art/
+  - title: "Events"
+    url: /events/
+
+  - title: "Gallery"
+    url: /gallery/    
+
+  - title: "Testimonials"
+    url: /testimonials/    
         
-  - title: "Verse"
-    url: /poetry/
+ # - title: "Verse"
+ #   url: /poetry/
     
-  - title: "Reel"
-    url: /theatre/
+ # - title: "Reel"
+ #   url: /theatre/
     
  # - title: "Guide"
  #   url: /markdown/
