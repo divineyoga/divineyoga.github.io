@@ -176,16 +176,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  batches:
     output: true
     permalink: /:collection/:path/
-  publications:
+  events:
     output: true
     permalink: /:collection/:path/
-  theatre:
+  gallery:
     output: true
     permalink: /:collection/:path/
-  talks:
+  testimonials:
     output: true
     permalink: /:collection/:path/
   art:
@@ -243,33 +243,25 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _batches
   - scope:
       path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-  # _art
-  - scope:
-      path: ""
-      type: art
+      type: batches
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _poetry
+  # _events
   - scope:
       path: ""
-      type: poetry
+      type: events
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _projects
+  # _gallery
   - scope:
       path: ""
       type: projects
@@ -277,10 +269,17 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true     
+      comment: true
+  # _testimonials
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true 
       
-
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
