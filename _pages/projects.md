@@ -1,24 +1,22 @@
 ---
 layout: archive
-title: "Ongoing Projects"
-permalink: /projects/
+title: "Testimonials"
+permalink: /testimonials/
 author_profile: true
 ---
 <br/>
-Right now, I'm working on the following projects:
+I'll be glad if you could provide me feedback for my course. Please also mention the duration you attended my classes for.
 
 <br/>
-1) Translation Validation of Scheduled Conditional Behavior using Petri Net based Program Models
-
-<br/>
-2) Machine Learning Methods for Sleep-Stage Classification using MoMaMeMi filtered brainwaves.
-
-<br/>
-3) Formal documentation for SamaTulyataII, a Petri net based equivalence checking tool.
-
-<br/>
-Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
-
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 1125; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: "https://divineyoga.github.io/testimonials/",
+        id: "1125"
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
 {% include base_path %}
 
