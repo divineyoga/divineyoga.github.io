@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post
 title: "Testimonials"
 permalink: /testimonials/
 author_profile: true
