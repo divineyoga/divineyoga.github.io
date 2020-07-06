@@ -1,0 +1,42 @@
+
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+    
+      <div id="hyvor-talk-view"></div>
+  <script type="text/javascript">
+      var HYVOR_TALK_WEBSITE = 1125; // DO NOT CHANGE THIS
+      var HYVOR_TALK_CONFIG = {
+          url: '{{ page.url | absolute_url }}',
+          id: '{{page.id}}'
+      };
+  </script>
+  <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+  
+    {% include scripts.html %}
+
+  </body>
+</html>
