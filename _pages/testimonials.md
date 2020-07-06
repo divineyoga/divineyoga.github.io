@@ -5,7 +5,8 @@ permalink: /testimonials/
 author_profile: true
 ---
 <br/>
-I'll be glad if you could provide me feedback for my course.
+<p style="margin-left: 40px">I'll be glad if you could provide me feedback for my classes.</p>
+
 
 
 {% include base_path %}
