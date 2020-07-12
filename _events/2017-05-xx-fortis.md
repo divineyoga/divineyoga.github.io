@@ -4,7 +4,7 @@ collection:
 type: "Workshop"
 permalink: /events/2017-05-xx-fortis
 venue: "Fortis Hospital Vashi"
-date: 
+date: 2017-05-16
 location: "Vashi, India"
 ---
 
