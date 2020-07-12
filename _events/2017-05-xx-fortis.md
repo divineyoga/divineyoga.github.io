@@ -1,6 +1,6 @@
 ---
 title: "2-month Yoga Workshop @ Fortis Hospital"
-collection: 
+collection: a
 type: "Workshop"
 permalink: /events/2017-05-xx-fortis
 venue: "Fortis Hospital Vashi"
