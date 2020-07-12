@@ -1,0 +1,11 @@
+---
+title: "2-month Yoga Workshop @ Fortis Hospital"
+collection: 
+type: "Workshop"
+permalink: /events/2017-05-xx-fortis
+venue: "Fortis Hospital Vashi"
+date: 
+location: "Vashi, India"
+---
+
+Conducted yoga classes for doctors, nurses and management departments of Fortis Hospital, Vashi for 2 months.
