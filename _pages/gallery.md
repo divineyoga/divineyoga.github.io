@@ -11,6 +11,7 @@ author_profile: true
 
 ## Photo Gallery
 
+<iframe src="https://albumizr.com/a/Ps1h" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
 
 {% include base_path %}
 
