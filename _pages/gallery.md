@@ -5,11 +5,11 @@ permalink: /gallery/
 author_profile: true
 ---
 
-## Youtube Video Uploads:
+## YouTube video uploads:
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ZkSexFlloSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Photo Gallery
+## Photo gallery of my students:
 
 <iframe src="https://albumizr.com/a/Ps1h" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
 
