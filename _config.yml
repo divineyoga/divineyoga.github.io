@@ -216,30 +216,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+   # _events
   - scope:
       path: ""
-      type: teaching
+      type: events
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _theatre
-  - scope:
-      path: ""
-      type: theatre
-    values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
       comment: true
